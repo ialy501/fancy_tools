@@ -15,5 +15,5 @@ il y a quelque raccourci:       gss="git status"
 			        gpl="git pull"
 			        gpu="git push"
 			        gap="git add ."
-                                gco le message du commit = git commit –m " le message du commit" 
+                               gco le message du commit = git commit –m " le message du commit" 
 
